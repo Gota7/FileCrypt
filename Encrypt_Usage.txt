@@ -1,0 +1,5 @@
+The encryptor can take a word/string/download_link and turn it into gibberish. Usage is Encryptor.exe String, quotation marks NOT needed. quotation marks will be ignored, but can be shown by placing a \ before a " or '. \" will show " and \' will show ', however backslashes are also ignored unless you place two such as \\. It also ignores spaces too, so just use underscores.
+
+\\ = \
+\" = "
+\' = '
