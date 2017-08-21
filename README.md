@@ -14,7 +14,7 @@ However, read the usage about backslashes and quotation marks.
 
 Now for decrypting, it's simliar using DecryptString, however the encryptor may spit out a string with backslashes and/or quotes. When using variables in a python program this is not a problem, but you'll have to add backslashes as described in Encrypt_Usage.
 
-##Enrypting Files
+## Enrypting Files
 (Make sure to rearrange the characters in decrypt.key to something random, but no duplicates of characters. Use the randomKeygen.py to get this)
 
 1. Open a file with HxD.
@@ -25,7 +25,7 @@ Now for decrypting, it's simliar using DecryptString, however the encryptor may 
 6. The output hex code will be in ENC_output.txt
 7. Rename the output file with whatever crazy encrypted extension you want.
 
-##Decrypting Files
+## Decrypting Files
 1. Make sure your Decrypt.Key matches the person's who encrypted it.
 2. Copy the encrypted hex code to DEC_input.txt
 3. Run DecryptFile.
