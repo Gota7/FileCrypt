@@ -1,5 +1,5 @@
-# String Scrambler
-A gibberish converter.
+# FileCrypt
+A gibberish and file encryptor.
 
 ## Usage for existing programs
 Read the instructions in Decrypt.key, and encrypt or decrypt strings by importing Decrytor into your python program, and using
